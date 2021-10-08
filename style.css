@@ -1,0 +1,14 @@
+body {
+    padding-left:10px;
+}
+
+button {
+    background-color:white;
+    color:purple;
+}
+
+button:hover {
+    color:black;
+    outline:black;
+    background-color:white;
+}
